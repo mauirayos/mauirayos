@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+<!-- -->
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/littlebodybigheart100)
+
+## I am a passionate Student and Developer!
+
+- ⚡ ???
+- ⚡ ???
+- ⚡ ???
+
+
+<br />
+
+<!--
+[![Fearless Psyche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fearlesspsyche&show_icons=true&theme=radical)](https://github.com/Fearlesspsyche/github-readme-stats)
+
+<br />
+
+
+
+[youthforourplanet]: https://youthforourplanet.com
+
+-->
 <!--
 **mauirayos/mauirayos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
