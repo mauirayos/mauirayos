@@ -7,7 +7,7 @@
 
 ## I am a passionate Student and Developer!
 
-# not a lot going on at the moment
+### not a lot going on at the moment
 
 - ⚡ ???
 - ⚡ ???
