@@ -13,6 +13,7 @@
 - ⚡ ???
 - ⚡ ???
 
+![Visitor Count](https://profile-counter.glitch.me/{mauirayos}/count.svg)
 
 <br />
 
