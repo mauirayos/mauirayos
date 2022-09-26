@@ -28,6 +28,10 @@ Visitor Count <br />
 [youthforourplanet]: https://youthforourplanet.com
 
 -->
+<a href="https://github.com/mauirayos">
+  <img src="https://github-readme-stats.vercel.app/api?username=mauirayos&count_private=true" />
+</a> 
+
 <!--
 **mauirayos/mauirayos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
