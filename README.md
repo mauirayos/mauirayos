@@ -32,9 +32,7 @@ Visitor Count <br />
   <img src="https://github-readme-stats.vercel.app/api?username=mauirayos&count_private=true" />
 </a> 
 
-<a href="https://github.com/mauirayos/" >
-  <img src="https://spotify-badge-elwyn.vercel.app/api/now-playing.svg" />
-</a>
+
 
 <!--
 **mauirayos/mauirayos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
